@@ -16,6 +16,10 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
+    /* Adicione estas duas linhas abaixo: */
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+
     /* Linting */
     "noUnusedLocals": true,
     "noUnusedParameters": true,

@@ -1,0 +1,57 @@
+{
+  "id": "doc-template-01",
+  "title": "Documento Base",
+  "blocks": [
+    {
+      "id": "b-1",
+      "type": "heading-1",
+      "spans": [
+        {
+          "id": "s-1-1",
+          "text": "Título do Documento",
+          "style": { "bold": true }
+        }
+      ]
+    },
+    {
+      "id": "b-2",
+      "type": "paragraph",
+      "spans": [
+        {
+          "id": "s-2-1",
+          "text": "Este é um parágrafo com trecho em ",
+          "style": {}
+        },
+        {
+          "id": "s-2-2",
+          "text": "negrito",
+          "style": { "bold": true }
+        },
+        {
+          "id": "s-2-3",
+          "text": " e trecho normal.",
+          "style": {}
+        }
+      ]
+    },
+    {
+      "id": "b-3",
+      "type": "paragraph",
+      "spans": [
+        {
+          "id": "s-3-1",
+          "text": "Conferência da OTAN ",
+          "style": { "bold": true}
+        },
+        {
+          "id": "s-3-2",
+          "text": ": Em outubro de 1968, um grupo de cerca de 50 renomados Cientistas da Computação se reuniu durante uma semana em Garmisch, na Alemanha, em uma conferência patrocinada por um comitê científico da OTAN, a organização militar que congrega os países do Atlântico Norte (veja uma foto da reunião na próxima figura). O objetivo da conferência era chamar a atenção para um problema crucial do uso de computadores, o chamado software. A conferência produziu um relatório, com mais de 130 páginas, que afirmava a necessidade de que software fosse construído com base em princípios práticos e teóricos, tal como ocorre em ramos tradicionais e bem estabelecidos da Engenharia. Para deixar essa proposta mais clara, decidiu-se cunhar o termo Engenharia de Software. Por isso, a Conferência da OTAN é considerada o marco histórico de criação da área de Engenharia de Software.",
+          "style": { }
+        }
+        
+      ]
+    }
+  ]
+}
+
+
